@@ -25,7 +25,7 @@ Installation/Importation of the following packages/libraries.
 ## Table of Contents:
 - Introduction
 - Importing Data Set
-- Data Visualizatio and Preprocessing
+- Data Visualization and Preprocessing
 - Pre-processing: Feature selection/extraction
 - One Hot Encoding 
 - Classification
