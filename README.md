@@ -31,3 +31,4 @@ Installation/Importation of the following packages/libraries.
 - Classification
 - Model Evaluation
 - Report
+- Resource
